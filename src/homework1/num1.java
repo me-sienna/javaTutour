@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class num1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.printf("V(전압) 입력: ");
+        System.out.print("V(전압) 입력: ");
         double v = sc.nextDouble();
-        System.out.printf("R(저항) 입력: ");
+        System.out.print("R(저항) 입력: ");
         double r = sc.nextDouble();
 
         double w = v*v/r;
