@@ -1,3 +1,5 @@
+package class1;
+
 public class practice2 {
     public static void main(String[] args) {
         float[] array1 = {1.1f, 2.3f, 4.7f, 7.5f};
